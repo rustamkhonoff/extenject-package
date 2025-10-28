@@ -1,7 +1,8 @@
 {
-    "name": "Zenject-Editor",
+    "name": "Zenject-ReflectionBaking-Editor",
     "references": [
-        "Zenject"
+        "Zenject",
+        "Zenject-Editor"
     ],
     "includePlatforms": [
         "Editor"
